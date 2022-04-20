@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Screens</string>
     <string name="start_second_activity">start second activity</string>
+    <string name="activity_second_text">The value sent with the intent is the following:</string>
 </resources>
