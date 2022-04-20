@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
     }
     private void buttonClick(){
         Intent intent = new Intent(this, SecondActivity.class);
-        intent.putExtra("NAME", "Mattias Borgenstierna");
+        intent.putExtra("NAME", "Mattias B");
         startActivity(intent);
     }
 }
